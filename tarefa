@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head> 
+        <link rel="stylesheet" href="estilo.css">
+        <meta charset="UTF-8">
+        <title>tarefa</title>
+</head>
+        <body>
+                <header>
+                        <h1> class="titulo-centralizado"> tarefa </h1>
+                        <img id="banner" src="banner.jpg"
+                        <div class="principal">
+                        <h2 class="titulo-centralizado"> tarefa </h2>
+        <p>Colegio C.C.M Jardim Zeballos</p>
+                        
+   </p>
+        <p id="missão"><em>Nossa missão é:  <strong>"Proporcionar educacao dos alunos"</strong>.</em></p>
+
+        <p>Oferecemos conhecimento. 
+       </p><driv>
+                
+        <driv class="beneficios">
+                <h3 class="titulo-centralizado"> Beneficios </h3>
+                
+                <ul>
+                        <li class="itens"> Atendimento aos alunos  </li>
+                        <li class="itens"> Localização </li>
+                        <li class="itens"> Profissionais qualificados </li>
+                </ul>
+                
+                <img src="beneficios.jog" class=">
+            </driv>
+          <div class="video">
+                 <iflame width="100%" height="315" src="http://www.youtube.com/embed/wcVVXUV0YUY"
+                         frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
+                     picture-in-picture" allowfullscreen></iflame>
+                  </driv>
+                  </section>
+            </main>                     
+         
+           <footer>
+                  <img src="logo-branco.png">
+                  <p class="copyrigth">&copy; Copyrigth Jardim Zeballos - 2022 </p>    
+         </footer>
+                     </body>
+</html>
